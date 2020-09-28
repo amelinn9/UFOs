@@ -6,36 +6,36 @@
 ## Results
 Here are some instructions on how to use the webpage's search criteria:
 
-The UFO Sightings webpage includes a searchable table for UFO events. You can filter the table by Date, City, State, Country, and/or Shape in the "Filter Search" container.
-<p align="center"><img src="static/images/webpage.png"></p>
+- The UFO Sightings webpage includes a searchable table for UFO events. You can filter the table by Date, City, State, Country, and/or Shape in the "Filter Search" container.
+<p align="center"><img src="static/images/webpage.png"></p><br>
 
 
-To filter by Date, enter a date following the format shown in the placeholder text and press Enter or Tab. The search will return results for the date specified.
-<p align="center"><img src="static/images/filterByDate.png"></p>
+- To filter by Date, enter a date following the format shown in the placeholder text and press Enter or Tab. The search will return results for the date specified.
+<p align="center"><img src="static/images/filterByDate.png"></p><br>
 
 
-To filter by City, enter the city name and press Enter or Tab. You may enter the State as well to further refine your search to exclude cities with the same name from a different state.
-<p align="center"><img src="static/images/filterByDate.png"></p>
+- To filter by City, enter the city name and press Enter or Tab. You may enter the State as well to further refine your search to exclude cities with the same name from a different state.
+<p align="center"><img src="static/images/filterByCity.png"></p><br>
 
 
-To only filter by State, clear out the other filter fields and only enter the two-letter state abbreviation, then press Enter or Tab.
-<p align="center"><img src="static/images/filterByDate.png"></p>
+- To only filter by State, clear out the other filter fields and only enter the two-letter state abbreviation, then press Enter or Tab.
+<p align="center"><img src="static/images/filterByState.png"></p><br>
 
 
-To filter by Country, enter the two-letter country abbreviation code and press Enter or Tab.
-<p align="center"><img src="static/images/filterByDate.png"></p>
+- To filter by Country, enter the two-letter country abbreviation code and press Enter or Tab.
+<p align="center"><img src="static/images/filterByCountry.png"></p><br>
 
 
-To filter by Shape, enter the shape and press Enter or Tab.
-<p align="center"><img src="static/images/filterByDate.png"></p>
+- To filter by Shape, enter the shape and press Enter or Tab.
+<p align="center"><img src="static/images/filterByShape.png"></p><br>
 
 
-The more filters you enter, the more refined your search results will be.
-<p align="center"><img src="static/images/filterByDate.png"></p>
+- The more filters you enter, the more refined your search results will be.
+<p align="center"><img src="static/images/multiFilter.png"></p><br>
 
 
-To clear all filters, click on the "UFO Sightings" link located at the top left of the page.
-<p align="center"><img src="static/images/filterByDate.png"></p>
+- To clear all filters, click on the "UFO Sightings" link located at the top left of the page.
+<p align="center"><img src="static/images/clearFilters.png"></p>
 
 
 
