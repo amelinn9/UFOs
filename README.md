@@ -1,7 +1,7 @@
 # UFOs
 
 ## Overview
-
+Dana, a seasoned data journalist wants to create a webpage that includes a dynamic table that can be filtered by date. The purpose of this analysis is to provide a more in-depth analysis of UFO Sightings by allowing users to filter for multiple criteria at the same time. Code was refactored to add table filters for the city, state, country, and shape in addtion to the date. The results, drawbacks, and recommendations for further development are discussed below.
 
 ## Results
 Here are some instructions on how to use the webpage's search criteria:
@@ -31,11 +31,11 @@ Here are some instructions on how to use the webpage's search criteria:
 
 
 - The more filters you enter, the more refined your search results will be.
-<p align="center"><img src="static/images/refined.png"></p><br>
+<p align="center"><img src="static/images/refined.PNG"></p><br>
 
 
 - To clear all filters, click on the "UFO Sightings" link located at the top left of the page.
-<p align="center"><img src="static/images/clearFilters.png"></p>
+<p align="center"><img src="static/images/clearFilters.PNG"></p>
 
 
 
