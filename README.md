@@ -31,7 +31,7 @@ Here are some instructions on how to use the webpage's search criteria:
 
 
 - The more filters you enter, the more refined your search results will be.
-<p align="center"><img src="static/images/multiFilter.png"></p><br>
+<p align="center"><img src="static/images/refined.png"></p><br>
 
 
 - To clear all filters, click on the "UFO Sightings" link located at the top left of the page.
