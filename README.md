@@ -30,7 +30,7 @@ Here are some instructions on how to use the webpage's search criteria:
 <p align="center"><img src="static/images/filterByShape.png"></p><br>
 
 
-- The more filters you enter, the more refined your search results will be.
+- You can enter as many search criteria as you would like. The more filters you enter, the more refined your search results will be.
 <p align="center"><img src="static/images/refined.PNG"></p><br>
 
 
