@@ -54,33 +54,15 @@ function updateFilters() {
 
   
     // 8. Set the filtered data to the tableData.
-    let filteredData = tableData;
+    var filteredData = tableData;
   
     // 9. Loop through all of the filters and keep any data that
     // matches the filter values
-    const filterS = Object.entries(filters);
-    for (const [filter, value] of filterS) {
-        if (filter === "datetime") {
-            // apply the filter and only keep the rows where the datetime matches the filter value
-            filteredData = filteredData.filter(row => row.datetime === value);
-        }
-        if (filter === "city") {
-            // apply the filter and only keep the rows where the city matches the filter value
-            filteredData = filteredData.filter(row => row.city === value);
-        }
-        if (filter === "state") {
-            // apply the filter and only keep the rows where the state matches the filter value
-            filteredData = filteredData.filter(row => row.state === value);
-        }
-        if (filter === "country") {
-            // apply the filter and only keep the rows where the country matches the filter value
-            filteredData = filteredData.filter(row => row.country === value);
-        }
-        if (filter === "shape") {
-            // apply the filter and only keep the rows where the shape matches the filter value
-            filteredData = filteredData.filter(row => row.shape === value);
-        }
-    }  
+    let filterS = Object.entries(filters);
+    for (let [key, value] of filterS) {
+      filteredData = filteredData.filter(row => row[key] === value);
+    }
+    
     // 10. Finally, rebuild the table using the filtered data
     buildTable(filteredData);
   }
